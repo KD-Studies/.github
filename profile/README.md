@@ -1,19 +1,5 @@
 # 🎓 KD-Studies
-## 🎯 Was erwartet dich hier?### 📊 **Data Science & AI**
-```ascii
-┌──────────────────### 🛡️ [simple_sqlAkademisches Wissen mit praktischer Anwendung verknüpfen und die Developer-Community durch:
-- 📊 **Data Science** Projekte und Algorithmen
-- 🛡️ **Cybersecurity** Awareness und Testing
-- 📚 **Akademische Forschung** und Dokumentation
-- 💼 **Business Process** Digitalisierungction](https://github.com/KD-Studies/simple_sql_injection) - *Security Testing*──────────────────────────────────────────┐
-│  📊 Data Science   │  🛡️ Cybersecurity   │  📚 Academic Res. │
-│                     │                      │                  │
-│  • ML Algorithmen  │  • Vulnerability     │  • LaTeX Docs     │
-│  • Trading Bots    │    Assessment        │  • Research       │
-│  • Data Analysis   │  • SQL Injection     │    Papers         │
-│  • Jupyter Notebooks│  • Web Security     │  • Process Models │
-└─────────────────────────────────────────────────────────────┘
-```ge Driven Studies - Dein Weg zum Coding-Erfolg*
+*Knowledge Driven Studies - Dein Weg zum Coding-Erfolg*
 
 <div align="center">
   
@@ -33,12 +19,12 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
-│  📚 Lernprojekte    │  �️ Tools & Scripts │  🎨 Kreative Ideen │
+│  📊 Data Science   │  🛡️ Cybersecurity   │  📚 Academic Res. │
 │                     │                      │                  │
-│  • Schritt-für-    │  • Automatisierung   │  • UI/UX Designs  │
-│    Schritt Guides  │  • Productivity      │  • Innovative     │
-│  • Code-Beispiele  │  • Development       │    Lösungen       │
-│  • Best Practices  │    Workflows         │  • Experiments    │
+│  • ML Algorithmen  │  • Vulnerability     │  • LaTeX Docs     │
+│  • Trading Bots    │    Assessment        │  • Research       │
+│  • Data Analysis   │  • SQL Injection     │    Papers         │
+│  • Jupyter Notebooks│  • Web Security     │  • Process Models │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,7 +34,7 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 <tr>
 <td width="33%">
 
-### � **Data Science & AI**
+### 📊 **Data Science & AI**
 - **Jupyter Notebooks** für Datenanalyse
 - **Machine Learning** Algorithmen
 - **Python** für Data Processing
@@ -104,33 +90,37 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 ## 🌟 Highlighted Projects
 
 ### 📈 [Algorithmischer-Handel](https://github.com/KD-Studies/Algorithmischer-Handel) - *Algorithmic Trading Analysis*
-> Implementierung und Analyse von Algorithmen für den automatisierten Handel mit Machine Learning Ansätzen
+> Implementierung und Analyse von Algorithmen für den automatisierten Handel mit Machine Learning Ansätzen  
 > **Tech Stack:** Python, Jupyter Notebook, Data Analysis
 
-### �️ [simple_sql_injection](https://github.com/KD-Studies/simple_sql_injection) - *Security Testing*  
-> Praktische Demonstration von SQL-Injection Vulnerabilities für Bildungszwecke
+### 🛡️ [simple_sql_injection](https://github.com/KD-Studies/simple_sql_injection) - *Security Testing*  
+> Praktische Demonstration von SQL-Injection Vulnerabilities für Bildungszwecke  
 > **Tech Stack:** PHP, MySQL, Web Security
 
 ### 🎯 [Advanced-Topics-in-Computer-Science-Stratify](https://github.com/KD-Studies/Advanced-Topics-in-Computer-Science-Stratify) - *AI Research*
-> Fortgeschrittene Themen der Informatik mit Fokus auf Stratify-Algorithmen und Machine Learning
+> Fortgeschrittene Themen der Informatik mit Fokus auf Stratify-Algorithmen und Machine Learning  
 > **Tech Stack:** Jupyter Notebook, Python, Research
 
+### 🌐 [Web-Technologies-and-Applications-Deepfake](https://github.com/KD-Studies/Web-Technologies-and-Applications-Deepfake) - *Web Tech Research*
+> Untersuchung von Web-Technologien und deren Anwendung im Kontext von Deepfake-Technologien  
+> **Tech Stack:** LaTeX, Research, Web Technologies
+
 ### 🏢 [Implementierung-digitaler-Geschaeftsprozesse](https://github.com/KD-Studies/Implementierung-digitaler-Geschaeftsprozesse) - *Digital Business Processes*
-> Akademische Arbeit zur Implementierung digitaler Geschäftsprozesse in modernen Unternehmen
+> Akademische Arbeit zur Implementierung digitaler Geschäftsprozesse in modernen Unternehmen  
 > **Tech Stack:** LaTeX, Documentation, Business Analysis
 
 ### 🧪 [Software-Engineering-Projects-Software-Testing-and-DevOps](https://github.com/KD-Studies/Software-Engineering-Projects-Software-Testing-and-DevOps) - *SE & DevOps*
-> Umfassende Sammlung von Software Engineering Projekten mit Fokus auf Testing und DevOps Practices
+> Umfassende Sammlung von Software Engineering Projekten mit Fokus auf Testing und DevOps Practices  
 > **Tech Stack:** Various, Testing Frameworks, DevOps Tools
 
 ## 🤝 Community & Zusammenarbeit
 
 ### 🎯 **Mission**
 Akademisches Wissen mit praktischer Anwendung verknüpfen und die Developer-Community durch:
-- � **Data Science** Projekte und Algorithmen
+- 📊 **Data Science** Projekte und Algorithmen
 - 🛡️ **Cybersecurity** Awareness und Testing
-- � **Akademische Forschung** und Dokumentation
-- � **Business Process** Digitalisierung
+- 📚 **Akademische Forschung** und Dokumentation
+- 💼 **Business Process** Digitalisierung
 - 🔬 **Experimentelle Projekte** in verschiedenen Tech-Bereichen
 
 ### 🌈 **Wie kannst du mitmachen?**
