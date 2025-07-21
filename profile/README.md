@@ -15,6 +15,47 @@
 
 Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressourcen** und **Code-Experimenten** aus der Welt der Softwareentwicklung. Von den ersten Schritten bis zu fortgeschrittenen Konzepten - alles dokumentiert und für die Community verfügbar!
 
+## 📊 GitHub Organization Overview
+
+<div align="center">
+
+### 🏢 **KD-Studies Organization**
+[![Repositories](https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/repositories)
+[![Members](https://img.shields.io/badge/Members-1-green?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/people)
+[![Projects](https://img.shields.io/badge/Active_Projects-6-orange?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/projects)
+
+### 📈 **Repository Statistics**
+- 🐍 **Python/Data Science:** Algorithmischer-Handel, Advanced-Topics-in-Computer-Science-Stratify
+- � **Research/Documentation:** Implementierung-digitaler-Geschaeftsprozesse, Web-Technologies-and-Applications-Deepfake
+- 🛡️ **Security/Web:** simple_sql_injection  
+- ⚙️ **Software Engineering:** Software-Engineering-Projects-Software-Testing-and-DevOps
+- 🗂️ **Organization:** .github (Profile & Templates)
+
+### 🔥 **Most Used Technologies**
+![Python](https://img.shields.io/badge/Python-35%25-blue?style=flat-square)
+![TeX](https://img.shields.io/badge/TeX/LaTeX-30%25-green?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-20%25-orange?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-10%25-purple?style=flat-square)
+![Other](https://img.shields.io/badge/Other-5%25-gray?style=flat-square)
+
+</div>
+
+## 🎨 Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+
 ## 🎯 Was erwartet dich hier?
 
 ```ascii
@@ -62,43 +103,6 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 </tr>
 </table>
 
-## 📊 GitHub Organization Overview
-
-<div align="center">
-
-### 🏢 **KD-Studies Organization**
-[![Repositories](https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/repositories)
-[![Members](https://img.shields.io/badge/Members-1-green?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/people)
-[![Projects](https://img.shields.io/badge/Projects-Active-orange?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/projects)
-
-### 📈 **Repository Statistics**
-- 🐍 **Python Projects:** Algorithmischer-Handel, Advanced-Topics-in-Computer-Science-Stratify
-- 🛡️ **Security Projects:** simple_sql_injection  
-- 📚 **Research Papers:** Implementierung-digitaler-Geschaeftsprozesse, Web-Technologies-and-Applications-Deepfake
-- ⚙️ **Engineering:** Software-Engineering-Projects-Software-Testing-and-DevOps
-
-### 🔥 **Most Used Technologies**
-![Python](https://img.shields.io/badge/Python-40%25-blue?style=flat-square)
-![TeX](https://img.shields.io/badge/TeX-25%25-green?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-15%25-purple?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-20%25-orange?style=flat-square)
-
-</div>
-
-## 🎨 Tech Stack & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
 
 ## 🌟 Highlighted Projects
 
