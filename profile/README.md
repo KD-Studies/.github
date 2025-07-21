@@ -1,6 +1,11 @@
 # 🎓 KD-Studies
-##```ascii
-┌─────────────────────────────────────────────────────────────┐
+## 🎯 Was erwartet dich hier?### 📊 **Data Science & AI**
+```ascii
+┌──────────────────### 🛡️ [simple_sqlAkademisches Wissen mit praktischer Anwendung verknüpfen und die Developer-Community durch:
+- 📊 **Data Science** Projekte und Algorithmen
+- 🛡️ **Cybersecurity** Awareness und Testing
+- 📚 **Akademische Forschung** und Dokumentation
+- 💼 **Business Process** Digitalisierungction](https://github.com/KD-Studies/simple_sql_injection) - *Security Testing*──────────────────────────────────────────┐
 │  📊 Data Science   │  🛡️ Cybersecurity   │  📚 Academic Res. │
 │                     │                      │                  │
 │  • ML Algorithmen  │  • Vulnerability     │  • LaTeX Docs     │
