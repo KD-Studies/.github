@@ -62,13 +62,26 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 </tr>
 </table>
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Organization Overview
 
 <div align="center">
-  
-![KD-Studies GitHub Stats](https://github-readme-stats.vercel.app/api?username=KD-Studies&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KD-Studies&layout=compact&theme=radical)
+### 🏢 **KD-Studies Organization**
+[![Repositories](https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/repositories)
+[![Members](https://img.shields.io/badge/Members-1-green?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/people)
+[![Projects](https://img.shields.io/badge/Projects-Active-orange?style=for-the-badge&logo=github)](https://github.com/orgs/KD-Studies/projects)
+
+### 📈 **Repository Statistics**
+- 🐍 **Python Projects:** Algorithmischer-Handel, Advanced-Topics-in-Computer-Science-Stratify
+- 🛡️ **Security Projects:** simple_sql_injection  
+- 📚 **Research Papers:** Implementierung-digitaler-Geschaeftsprozesse, Web-Technologies-and-Applications-Deepfake
+- ⚙️ **Engineering:** Software-Engineering-Projects-Software-Testing-and-DevOps
+
+### 🔥 **Most Used Technologies**
+![Python](https://img.shields.io/badge/Python-40%25-blue?style=flat-square)
+![TeX](https://img.shields.io/badge/TeX-25%25-green?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-15%25-purple?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-20%25-orange?style=flat-square)
 
 </div>
 
