@@ -55,42 +55,6 @@ Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressou
 │  • Jupyter Notebooks│  • Web Security     │  • Process Models │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-## 🔥 Aktuelle Fokus-Bereiche
-
-<table>
-<tr>
-<td width="33%">
-
-### 📊 **Data Science & AI**
-- **Jupyter Notebooks** für Datenanalyse
-- **Machine Learning** Algorithmen
-- **Python** für Data Processing
-- **Algorithmischer Handel** & FinTech
-
-</td>
-<td width="33%">
-
-### 🛡️ **Cybersecurity & Web**
-- **SQL Injection** Testing
-- **Web Security** Vulnerabilities
-- **PHP** Backend Development
-- **Penetration Testing** Basics
-
-</td>
-<td width="33%">
-
-### 🎓 **Academic Research**
-- **LaTeX** Dokumentation
-- **Software Engineering** Best Practices
-- **DevOps** Methodologies
-- **Research Projects** & Papers
-
-</td>
-</tr>
-</table>
-
-
 ## 🌟 Highlighted Projects
 
 ### 📈 [Algorithmischer-Handel](https://github.com/KD-Studies/Algorithmischer-Handel) - *Algorithmic Trading Analysis*
