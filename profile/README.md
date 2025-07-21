@@ -1,16 +1,3 @@
-# 🎓 KD-Studies
-*Knowledge Driven Studies - Dein Weg zum Coding-Erfolg*
-
-<div align="center">
-  
-![Coding](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/KD-Studies?style=for-the-badge&logo=github&logoColor=white)
-![GitHub stars](https://img.shields.io/github/stars/KD-Studies?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
 ## 🚀 Willkommen bei KD-Studies!
 
 Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressourcen** und **Code-Experimenten** aus der Welt der Softwareentwicklung. Von den ersten Schritten bis zu fortgeschrittenen Konzepten - alles dokumentiert und für die Community verfügbar!
