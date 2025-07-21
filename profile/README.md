@@ -1,12 +1,174 @@
-## Hi there 👋
+# 🎓 KD-Studies
+##```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  📊 Data Science   │  🛡️ Cybersecurity   │  📚 Academic Res. │
+│                     │                      │                  │
+│  • ML Algorithmen  │  • Vulnerability     │  • LaTeX Docs     │
+│  • Trading Bots    │    Assessment        │  • Research       │
+│  • Data Analysis   │  • SQL Injection     │    Papers         │
+│  • Jupyter Notebooks│  • Web Security     │  • Process Models │
+└─────────────────────────────────────────────────────────────┘
+```ge Driven Studies - Dein Weg zum Coding-Erfolg*
 
-<!--
+<div align="center">
+  
+![Coding](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/KD-Studies?style=for-the-badge&logo=github&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/KD-Studies?style=for-the-badge&logo=github&logoColor=white)
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🚀 Willkommen bei KD-Studies!
+
+Hier findest du eine Sammlung von **praxisorientierten Projekten**, **Lernressourcen** und **Code-Experimenten** aus der Welt der Softwareentwicklung. Von den ersten Schritten bis zu fortgeschrittenen Konzepten - alles dokumentiert und für die Community verfügbar!
+
+## 🎯 Was erwartet dich hier?
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  📚 Lernprojekte    │  �️ Tools & Scripts │  🎨 Kreative Ideen │
+│                     │                      │                  │
+│  • Schritt-für-    │  • Automatisierung   │  • UI/UX Designs  │
+│    Schritt Guides  │  • Productivity      │  • Innovative     │
+│  • Code-Beispiele  │  • Development       │    Lösungen       │
+│  • Best Practices  │    Workflows         │  • Experiments    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## 🔥 Aktuelle Fokus-Bereiche
+
+<table>
+<tr>
+<td width="33%">
+
+### � **Data Science & AI**
+- **Jupyter Notebooks** für Datenanalyse
+- **Machine Learning** Algorithmen
+- **Python** für Data Processing
+- **Algorithmischer Handel** & FinTech
+
+</td>
+<td width="33%">
+
+### 🛡️ **Cybersecurity & Web**
+- **SQL Injection** Testing
+- **Web Security** Vulnerabilities
+- **PHP** Backend Development
+- **Penetration Testing** Basics
+
+</td>
+<td width="33%">
+
+### 🎓 **Academic Research**
+- **LaTeX** Dokumentation
+- **Software Engineering** Best Practices
+- **DevOps** Methodologies
+- **Research Projects** & Papers
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+![KD-Studies GitHub Stats](https://github-readme-stats.vercel.app/api?username=KD-Studies&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KD-Studies&layout=compact&theme=radical)
+
+</div>
+
+## 🎨 Tech Stack & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+## 🌟 Highlighted Projects
+
+### 📈 [Algorithmischer-Handel](https://github.com/KD-Studies/Algorithmischer-Handel) - *Algorithmic Trading Analysis*
+> Implementierung und Analyse von Algorithmen für den automatisierten Handel mit Machine Learning Ansätzen
+> **Tech Stack:** Python, Jupyter Notebook, Data Analysis
+
+### �️ [simple_sql_injection](https://github.com/KD-Studies/simple_sql_injection) - *Security Testing*  
+> Praktische Demonstration von SQL-Injection Vulnerabilities für Bildungszwecke
+> **Tech Stack:** PHP, MySQL, Web Security
+
+### 🎯 [Advanced-Topics-in-Computer-Science-Stratify](https://github.com/KD-Studies/Advanced-Topics-in-Computer-Science-Stratify) - *AI Research*
+> Fortgeschrittene Themen der Informatik mit Fokus auf Stratify-Algorithmen und Machine Learning
+> **Tech Stack:** Jupyter Notebook, Python, Research
+
+### 🏢 [Implementierung-digitaler-Geschaeftsprozesse](https://github.com/KD-Studies/Implementierung-digitaler-Geschaeftsprozesse) - *Digital Business Processes*
+> Akademische Arbeit zur Implementierung digitaler Geschäftsprozesse in modernen Unternehmen
+> **Tech Stack:** LaTeX, Documentation, Business Analysis
+
+### 🧪 [Software-Engineering-Projects-Software-Testing-and-DevOps](https://github.com/KD-Studies/Software-Engineering-Projects-Software-Testing-and-DevOps) - *SE & DevOps*
+> Umfassende Sammlung von Software Engineering Projekten mit Fokus auf Testing und DevOps Practices
+> **Tech Stack:** Various, Testing Frameworks, DevOps Tools
+
+## 🤝 Community & Zusammenarbeit
+
+### 🎯 **Mission**
+Akademisches Wissen mit praktischer Anwendung verknüpfen und die Developer-Community durch:
+- � **Data Science** Projekte und Algorithmen
+- 🛡️ **Cybersecurity** Awareness und Testing
+- � **Akademische Forschung** und Dokumentation
+- � **Business Process** Digitalisierung
+- 🔬 **Experimentelle Projekte** in verschiedenen Tech-Bereichen
+
+### 🌈 **Wie kannst du mitmachen?**
+- ⭐ **Star** interessante Repositories
+- 🍴 **Fork** und experimentiere mit dem Code
+- 🐛 **Issues** melden oder Verbesserungen vorschlagen
+- 💡 **Pull Requests** für neue Features oder Fixes
+- 💬 **Diskutiere** in den Kommentaren und teile deine Erfahrungen
+
+## 📈 Learning Journey
+
+```
+🎯 2024/2025 Academic Goals:
+├── ✅ Algorithmic Trading Implementation
+├── ✅ Cybersecurity Vulnerability Analysis  
+├── ✅ Advanced AI/ML Research Projects
+├── 🔄 Digital Business Process Optimization (In Progress)
+├── 📚 Software Testing & DevOps Methodologies
+└── 🎓 Research Publication & Documentation
+```
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KD-Studies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+
+**💌 Hast du Fragen, Ideen oder möchtest zusammenarbeiten?**  
+*Schreib mir gerne - ich freue mich auf spannende Gespräche!*
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ *"Code is like humor. When you have to explain it, it's bad."* ⚡
+
+**Made with ❤️ and lots of ☕ by KD-Studies**
+
+![Visitor Count](https://profile-counter.glitch.me/KD-Studies/count.svg)
+
+</div>
